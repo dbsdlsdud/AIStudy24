@@ -9,5 +9,4 @@ mbc상점에서 앱마켓을 운영하는데 AI를 활용하는 기법 학습하
 3. 생선의 종류는 도미, 곤들매기, 농어, 강꼬치고기, 빙어, 송어 등등
 4. AI미션 : 생선의 길이가 30cm이상이면 도미
 
-12/30 머신러닝_생선길이학습, 훈련세트_테스트세트
-import matplotlib.pyplot as pl, from sklearn.neighbors import KNeighb
+12/30 머신러닝_생선길이학습.ipynb
