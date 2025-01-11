@@ -1,7 +1,8 @@
 # AIStudy24
 파이썬을 이용한 머신러닝 딥러닝 학습용
 
-[파이썬으로 데이터 시각화](https://wikidocs.net/book/5011)
+[Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
+[Colors,Line,Marker 종류](https://github.com/dbsdlsdud/AIStudy24/blob/02a197cbe80d7f3d977c1a08809bc6e6e02330d8/Colors_Line_Marker.ipynb)
 
 # 머신러닝
 
