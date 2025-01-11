@@ -1,7 +1,7 @@
 # AIStudy24
 파이썬을 이용한 머신러닝 딥러닝 학습용
 
-https://wikidocs.net/book/5011
+[파이썬으로 데이터 시각화](https://wikidocs.net/book/5011)
 
 # 머신러닝
 
