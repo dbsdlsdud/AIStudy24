@@ -19,6 +19,8 @@ AI미션 : 생선의 길이가 30cm이상이면 도미)
 * 24/12/30 [머신러닝_생선길이학습](https://github.com/dbsdlsdud/AIStudy24/blob/master/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D_%EC%83%9D%EC%84%A0%EA%B8%B8%EC%9D%B4%ED%95%99%EC%8A%B5.ipynb) / [훈련세트_테스트세트](https://github.com/dbsdlsdud/AIStudy24/blob/9262a678ff1240c4201bc00dd0582792062504c4/%ED%9B%88%EB%A0%A8%EC%84%B8%ED%8A%B8_%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%84%B8%ED%8A%B8.ipynb)
 * 24/12/31 [데이터_전처리학습](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC%ED%95%99%EC%8A%B5.ipynb)
 
+-
+
 [시나리오2]
 (이웃회귀를 통한 물고기 무게 예측
 
