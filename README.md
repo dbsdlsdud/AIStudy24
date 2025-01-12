@@ -36,7 +36,7 @@ AI미션 : 생선의 길이가 30cm이상이면 도미)
 1. 분류(2진분류)
 2. 회귀(예측 : 확률(임의의 어떤 숫자로 예측)) : 두 변수 사이에 상관관계 분석)
 
-* 24/12/31[이웃회귀](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EC%9D%B4%EC%9B%83%ED%9A%8C%EA%B7%80.ipynb)
+* 24/12/31 [이웃회귀](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EC%9D%B4%EC%9B%83%ED%9A%8C%EA%B7%80.ipynb)
 * 25/01/02 [k_최근접한계](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/k_%EC%B5%9C%EA%B7%BC%EC%A0%91%ED%95%9C%EA%B3%84.ipynb) / [다중회귀](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EB%8B%A4%EC%A4%91%ED%9A%8C%EA%B7%80.ipynb)
 * 25/01/03 [로지스틱회귀_소프트맥스](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1%ED%9A%8C%EA%B7%80_%EC%86%8C%ED%94%84%ED%8A%B8%EB%A7%A5%EC%8A%A4.ipynb)
 * 25/01/06 [확률적경사하강법](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%ED%99%95%EB%A5%A0%EC%A0%81%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95.ipynb) / [결정트리](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EA%B2%B0%EC%A0%95%ED%8A%B8%EB%A6%AC.ipynb)
