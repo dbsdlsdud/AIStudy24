@@ -2,7 +2,9 @@
 파이썬을 이용한 머신러닝 딥러닝 학습용
 
 * [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
+* [sklearn의 train_test_split() 사용법](https://blog.naver.com/siniphia/221396370872)
 * [Colors,Line,Marker 종류](https://github.com/dbsdlsdud/AIStudy24/blob/02a197cbe80d7f3d977c1a08809bc6e6e02330d8/Colors_Line_Marker.ipynb)
+
 
 # 머신러닝
 
