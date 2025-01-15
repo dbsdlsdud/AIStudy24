@@ -4,6 +4,7 @@
 * [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
 * [sklearn의 train_test_split() 사용법](https://blog.naver.com/siniphia/221396370872)
 * [Colors,Line,Marker 종류](https://github.com/dbsdlsdud/AIStudy24/blob/02a197cbe80d7f3d977c1a08809bc6e6e02330d8/Colors_Line_Marker.ipynb)
+* [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/32105)
 
 
 # 머신러닝
