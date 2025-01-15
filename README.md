@@ -4,7 +4,10 @@
 * [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/book/5011)
 * [sklearn의 train_test_split() 사용법](https://blog.naver.com/siniphia/221396370872)
 * [Colors,Line,Marker 종류](https://github.com/dbsdlsdud/AIStudy24/blob/02a197cbe80d7f3d977c1a08809bc6e6e02330d8/Colors_Line_Marker.ipynb)
-* [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/32105)
+* [딥러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
+* [임베딩](https://casa-de-feel.tistory.com/28)
+* [패딩하는 법](https://yeko90.tistory.com/entry/keras-how-to-padding-with-padsequences)
+* [한국어 형태소 분석 기초](https://velog.io/@hunterhunter/%ED%95%9C%EA%B5%AD%EC%96%B4-%ED%98%95%ED%83%9C%EC%86%8C-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88)
 
 
 # 머신러닝
