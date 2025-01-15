@@ -89,9 +89,21 @@ AI미션 : 생선의 길이가 30cm이상이면 도미
 
 [시나리오2]
 
-1.MBC마켓에서 럭키백을 패션분야에 접목 시키려고 한다.
+1. MBC마켓에서 럭키백을 패션분야에 접목 시키려고 한다.
 2. 패션 분야이기 때문에 상품 개수는 늘어나고 어종이 아닌 일반 잡화용으로 제공한다.
 
 * 25/01/09 [인공신경망](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb) / [심층신경망](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EC%8B%AC%EC%B8%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
 * 25/01/10 [심층신경망](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EC%8B%AC%EC%B8%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb) / [인공신경망기타도구](https://github.com/dbsdlsdud/AIStudy24/blob/033ba5d90ad72371147e63f24dfedbe7f159082e/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D%EA%B8%B0%ED%83%80%EB%8F%84%EA%B5%AC.ipynb)
 * 25/01/13 [합성곱신경망](https://github.com/dbsdlsdud/AIStudy24/blob/4dacb9050b6bbf65fad931303fc99907bffcf8c0/%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb) / [합성곱시각화](https://github.com/dbsdlsdud/AIStudy24/blob/4dacb9050b6bbf65fad931303fc99907bffcf8c0/%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
+
+***
+
+[시나리오3]
+
+댓글을 분석하는 기법 연구
+
+1. MBC마켓이 AI를 이용해 많은 부분이 개선됐고 이벤트도 성공적으로 결론이 났다.
+2. 요즘 상품에 대한 댓글 이슈가 있어서 댓글을 보고 좋은 상품인지 개선해야 될 상품인지 분석하고 싶어 한다.
+
+* 25/01/14 [순차데이터와 순환신경망](https://github.com/dbsdlsdud/AIStudy24/blob/9c1e616a262f2692f0ec0849208b60e4d41bd838/%EC%88%9C%EC%B0%A8%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80%EC%88%9C%ED%99%98%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
+* 25/01/15 [LSTM_GRU](https://github.com/dbsdlsdud/AIStudy24/blob/9c1e616a262f2692f0ec0849208b60e4d41bd838/LSTM_GRU.ipynb)
